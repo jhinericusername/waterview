@@ -9,15 +9,18 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    /* padding-left: 10%; */
-    padding-top: 3%;
+    padding-left: 5%;
+    padding-top: 2%;
 }
+
+
 
 .tagLine {
     display: flex;
     /* align-items: center; */
     /* width: fit-content; */
     flex-direction: column;
+    align-items: flex-start;
 }
 
 .water {
@@ -49,10 +52,19 @@
     margin-bottom: 3rem;
 }
 
-.search {
+.actions {
     display: flex;
     align-items: center;
+    flex-direction: column;
 }
+
+.search {
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    /* margin-top: 3rem; */
+}
+
 
 .searchBar {
     width: 325px; 
@@ -61,13 +73,13 @@
     border: 1px black solid;
     text-decoration: none;
     font-family: Product Sans;
-    text-indent: 35px;
-    
+    text-indent: 30px;
 }
 
 .searchIcon {
     position: relative;
-    left: 5%;
+    left: 7.5%;
+    top: 0.5rem
 }
 
 .searchButton {
@@ -78,7 +90,7 @@
     background-color: #4E50EB;
     color: white;
     border-radius: 100px;
-    height: 30px;
+    /* height: 30px; */
     width: 60px;
     cursor: pointer;
 }
@@ -88,10 +100,26 @@
     transition-duration: 0.3s;
 }
 
+.location {
+    padding-top: 3%;
+    font-family: Product Sans;
+    /* text-decoration: underline; */
+    font-size: 14px;
+}
+
+.locationBridge:hover {
+    text-decoration: underline;
+    cursor: pointer;
+}
+
 .waterGraphic {
     transform: scale(0.85);
     /* position: relative; */
     /* top: 10%; */
     margin-left: 9rem;
+}
 
+.waterGraphic:hover {
+    transform: scale(0.9);
+    transition-duration: 0.6s;
 }

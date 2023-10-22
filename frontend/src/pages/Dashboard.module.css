@@ -1,0 +1,91 @@
+.largeContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.container {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.descriptor {
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    margin-top: 5rem;
+    /* justify-content: space-between; */
+}
+
+.location {
+    padding-right: 1rem;
+    font-size: 40px;
+    font-family: Product Sans;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    margin-right: 5rem;
+}
+
+.subtitle1 {
+    font-size: 14px;
+    color: #919396;
+}
+
+.basicData {
+    /* margin-left: 30em; */
+    font-family: Product Sans;
+    margin-right: 1rem;
+    display: flex;
+    flex-direction: column;
+}
+
+.gray {
+    color: #919396;
+}
+
+.data {
+    height: 500px;
+}
+
+.search {
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    margin-top: 3rem;
+}
+
+.searchBar {
+    width: 325px; 
+    height: 30px; 
+    border-radius: 100px; 
+    border: 1px black solid;
+    text-decoration: none;
+    font-family: Product Sans;
+    text-indent: 18px;
+    
+}
+
+.searchButton {
+    border: none;
+    margin-left: -63px;
+    font-family: Product Sans;
+    background-color: #4E50EB;
+    color: white;
+    border-radius: 100px;
+    /* height: 30px; */
+    width: 60px;
+    cursor: pointer;
+}
+
+.searchButton:hover {
+    transform: scale(1.05);
+    transition-duration: 0.3s;
+}
+
+.dataContainer {
+    height: 500px;
+    width: 80vw;
+    background-color: #919396;
+}
