@@ -1,0 +1,76 @@
+.water {
+    color: #919396;
+    font-size: 28px;
+    font-family: Product Sans;
+    font-weight: 700;
+    text-transform: capitalize;
+    line-height: 52px;
+    word-wrap: break-word
+}
+
+.view {
+    color: #919396;
+    font-size: 28px;
+    font-family: Product Sans;
+    font-weight: 400;
+    text-transform: capitalize;
+    line-height: 52px;
+    word-wrap: break-word
+}
+
+.nav {
+    display: flex;
+    align-items: center;
+    /* justify-content: space-between; */
+    gap: 2rem;
+    /* padding: 0 2rem; */
+    font-family: Product Sans;
+    height: 70px;
+    /* background-color: #ffffa1; */
+    overflow: hidden;
+    border-bottom: 2px #E5E5E5 solid;
+    text-decoration: none;
+
+}
+
+.nav ul {
+    padding: 0;
+    margin: auto;
+    list-style: none;
+    display: flex;
+    align-items: center;
+    gap: 5rem;
+}
+
+.title {
+    position: relative;
+    width:fit-content;
+    padding-right: 60rem;
+    cursor: pointer;
+}
+
+.subtitle {
+    color: #919396;
+    font-size: 16px;
+    font-family: Product Sans;
+    font-weight: 400;
+    text-transform: capitalize;
+    cursor: pointer;
+    /* line-height: 52px; */
+}
+
+.map {
+    height: 100vh;
+    width: 100vw;
+    background-color: #919396;
+}
+
+.bubble {
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    background-color: #5696db;
+    border-radius: 50%;
+    cursor: pointer;
+    transition: transform 0.2s ease; /* Add a smooth animation */
+  }
