@@ -1,6 +1,6 @@
 import google.generativeai as palm
 
-API_KEY = "AIzaSyCNiN79w3tbY512uga1gs6KXp9IQ8ZJdZo"
+API_KEY = ""
 
 palm.configure(api_key=API_KEY)
 
