@@ -8,8 +8,20 @@ import { MyContext } from '../App'
 import styles from './Home.module.css'
 
 const Home = () => {
+    const words = ['Health,', 'Quality,', 'Safety,']
+    const [currIndex, setCurrIndex] = useState(0)
     const navigate = useNavigate();
     const { location, setLocation } = useContext(MyContext)
+
+    useEffect(() => {
+        const intervalID = setInterval(() => {
+            setCurrIndex((prev) => (prev + 1) % words.length)
+        }, 1250)
+
+        return () => {
+            clearInterval(intervalID)
+        }
+    }, [])
     // const Context = createContext()
     // const [isFirstMount, setIsFirstMount] = useState(false);
 
@@ -41,7 +53,12 @@ const Home = () => {
                 >
                     <div className={styles.tagLine}>
                         <div>
-                            <div className={styles.water}>Water's Health,</div>
+                            <div className={styles.water}>
+                                Water's
+                                <div className='changing'>
+                                    {words[currIndex]}
+                                </div>
+                            </div>
                             <div className={styles.visible}>Simply Visible.</div>
                         </div>
                         <div className={styles.subtitle1}>Find water health for your city.</div>
@@ -55,8 +72,8 @@ const Home = () => {
                                 </button>
                             </div>
                             <div className={styles.location}>
-                                <div className={styles.locPart}>or <MdOutlineLocationOn/></div> 
-                                <span className={styles.locationBridge} onClick={handleSearch}>Use my current location</span>
+                                <div className={styles.locPart}>or... </div>
+                                <div className={styles.locationBridge} onClick={handleSearch}>Use current location</div>
                             </div>
                         </div>
 
