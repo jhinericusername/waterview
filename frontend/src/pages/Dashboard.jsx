@@ -1,17 +1,18 @@
-'use client'
-
+import Navbar from '../components/Navbar'
 import { motion } from 'framer-motion'
+import { useNavigate } from 'react-router-dom'
 import { useEffect, useContext, useRef } from 'react'
-import { MyContext } from '../layout.js'
+import { MyContext } from '../App'
 // import { AiOutlineSearch } from 'react-icons/ai'
-import Map from '../components/Map.js'
-import { CategoryBar } from "@tremor/react";
+import Map from '../components/Map'
 import { useState } from 'react'
+import { CategoryBar, Card, Flex, Text, LineChart, Title } from "@tremor/react";
 
 import styles from './Dashboard.module.css'
-import style from '../Home.module.css'
+import style from './Home.module.css'
 
-const Page = () => {
+const Dashboard = () => {
+    const navigate = useNavigate()
     const { location, setLocation } = useContext(MyContext)
     const [newLocation, setNewLocation] = useState("")
 
@@ -37,8 +38,37 @@ const Page = () => {
         data.current.scrollIntoView({ behavior: 'smooth' });
     };
 
+    // useEffect(() => {
+    //     temp.current = location
+    // })
+    const chartdata = [
+        {
+            year: 1970,
+            "Export Growth Rate": 2.04,
+            "Import Growth Rate": 1.53,
+        },
+        {
+            year: 1971,
+            "Export Growth Rate": 1.96,
+            "Import Growth Rate": 1.58,
+        },
+        {
+            year: 1972,
+            "Export Growth Rate": 1.96,
+            "Import Growth Rate": 1.61,
+        },
+        {
+            year: 1973,
+            "Export Growth Rate": 1.93,
+            "Import Growth Rate": 1.61,
+        },      
+    ];
+
+    const valueFormatter = (number) => `$ ${new Intl.NumberFormat("us").format(number).toString()}`;
     return (
         <div>
+            <Navbar />
+
             <div className={styles.largeContainer}>
                 <div className={styles.search}>
                     {/* <AiOutlineSearch className={styles.searchIcon} /> */}
@@ -84,19 +114,36 @@ const Page = () => {
                 <div className={styles.dataContainer}>
                     <div className={styles.topInfo}>
                         <div className={styles.dataBars}>
-                            <CategoryBar
-                                values={[40, 30, 20, 10]}
-                                colors={["emerald", "yellow", "orange", "rose"]}
-                                markerValue={62}
-                                className="mt-3"
-                            />
+                            <Card className="max-w-sm mx-auto">
+                                <Flex>
+                                    <Text>Rating Product A</Text>
+                                    <Text>62%</Text>
+                                </Flex>
+                                <CategoryBar
+                                    values={[40, 30, 20, 10]}
+                                    colors={["emerald", "yellow", "orange", "rose"]}
+                                    markerValue={62}
+                                    className="mt-3"
+                                />
+                            </Card>
                         </div>
                         <div className={styles.bigNumber}>
 
                         </div>
                     </div>
                     <div className={styles.bottomInfo}>
-
+                        <Card>
+                            <Title>Export/Import Growth Rates (1970 to 2021)</Title>
+                            <LineChart
+                                className="mt-6"
+                                data={chartdata}
+                                index="year"
+                                categories={["Export Growth Rate", "Import Growth Rate"]}
+                                colors={["emerald", "gray"]}
+                                valueFormatter={valueFormatter}
+                                yAxisWidth={40}
+                            />
+                        </Card>
                     </div>
                 </div>
             </div>
@@ -104,4 +151,4 @@ const Page = () => {
     )
 }
 
-export default Page
+export default Dashboard

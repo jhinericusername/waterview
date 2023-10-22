@@ -1,14 +1,15 @@
-'use client'
-
 import { GoogleMap, LoadScript, Marker } from '@react-google-maps/api';
 import { useEffect } from 'react';
 
+
 const Map = () => {
+
 	const mapContainerStyle = {
 		width: '100%',
 		height: '600px',
 		marginTop: '7em',
 	};
+
 	
 	const center = {
 		lat: 42.363444, // Latitude of your map center
@@ -53,10 +54,6 @@ const Map = () => {
 				zoom={13} // Adjust the zoom level as needed
 				options={mapOptions}
 			>
-				{markers.map((position, index) => (
-					<Marker key={index} position={position} />
-				))}
-
 				{markers.map((position, index) => (
 					<Marker key={index} position={position} />
 				))}

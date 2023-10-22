@@ -74,6 +74,7 @@
     text-decoration: none;
     font-family: Product Sans;
     text-indent: 30px;
+    font-size: 14px;
 }
 
 .searchIcon {
@@ -83,14 +84,14 @@
 }
 
 .searchButton {
-    /* text-decoration: none; */
+    font-size: 14px;
     border: none;
     margin-left: -63px;
     font-family: Product Sans;
     background-color: #4E50EB;
     color: white;
     border-radius: 100px;
-    height: 33px;
+    /* height: 30px; */
     width: 60px;
     cursor: pointer;
 }
@@ -105,6 +106,7 @@
     font-family: Product Sans;
     /* text-decoration: underline; */
     font-size: 14px;
+    display: flex;
 }
 
 .locationBridge:hover {

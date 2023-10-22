@@ -64,7 +64,7 @@
     text-decoration: none;
     font-family: Product Sans;
     text-indent: 18px;
-    
+    font-size: 14px;
 }
 
 .searchButton {
@@ -77,6 +77,8 @@
     /* height: 30px; */
     width: 60px;
     cursor: pointer;
+    font-size: 14px;
+
 }
 
 .searchButton:hover {
@@ -87,5 +89,10 @@
 .dataContainer {
     height: 500px;
     width: 80vw;
-    background-color: #e6e6e6;
+    background-color: #919396;
+}
+
+.locPart {
+    display: flex;
+    flex-direction: row;
 }
