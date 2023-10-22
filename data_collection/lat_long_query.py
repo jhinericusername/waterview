@@ -3,7 +3,7 @@ import requests
 import csv
 
 # Replace with your API key
-api_key = "AIzaSyAteY9Km-IWhxfhogo_e5bYpSeGcFsEozE"
+api_key = "REDACTED-PERSONAL-API-KEY"
 
 
 # Function to get elevation for a given latitude and longitude
