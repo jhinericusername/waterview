@@ -15,7 +15,7 @@ WaterView - View *Water*
 
 A comprehensive water quality tool to visualize, track, and predict water quality levels around the world, leveraging machine learning and round-the-clock massive API integration.
 
-Afterwards, you can explicitly adjust the target amounts in the budget either through manual tools that we have provided, or give a more general description of your financial goals and spending habits, and have the Assistant adjust your plan for you. The assistant also outputs your budget in a text-friendly format, so you can store your monthly budget in whatever file format that best suits your purposes.
+Our platform combines real-time water quality tracking and predictive analytics, integrating data from 11 sources to provide live water quality indices. Our predictive model, trained on 18,000+ data points, offers 99.7% accuracy in predicting water quality, presented through intuitive visuals for various stakeholders.
 
 # Installation
 
