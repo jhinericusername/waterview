@@ -1,4 +1,4 @@
-"use client"
+'use client'
 
 import { GoogleMap, LoadScript, Marker } from '@react-google-maps/api';
 import { useEffect } from 'react';
@@ -53,6 +53,10 @@ const Map = () => {
 				zoom={13} // Adjust the zoom level as needed
 				options={mapOptions}
 			>
+				{markers.map((position, index) => (
+					<Marker key={index} position={position} />
+				))}
+
 				{markers.map((position, index) => (
 					<Marker key={index} position={position} />
 				))}

@@ -1,19 +1,20 @@
-"use client"
+'use client'
 
 import { motion } from 'framer-motion'
 import { useEffect, useContext, useRef } from 'react'
 import { MyContext } from '../layout.js'
 // import { AiOutlineSearch } from 'react-icons/ai'
+import Map from '../components/Map.js'
+import { CategoryBar } from "@tremor/react";
+import { useState } from 'react'
+
 import styles from './Dashboard.module.css'
 import style from '../Home.module.css'
-import Map from '../components/Map.js'
-
-import { useState } from 'react'
 
 const Page = () => {
     const { location, setLocation } = useContext(MyContext)
-    const [ newLocation, setNewLocation ] = useState("")
-    
+    const [newLocation, setNewLocation] = useState("")
+
     const data = useRef(null)
 
     function handleSearch(e) {
@@ -77,11 +78,26 @@ const Page = () => {
                 </div>
 
                 {/* <div onClick={scrollToDivBelow}> */}
-                <Map />
+                {/* <Map /> */}
                 {/* </div> */}
 
                 <div className={styles.dataContainer}>
-                
+                    <div className={styles.topInfo}>
+                        <div className={styles.dataBars}>
+                            <CategoryBar
+                                values={[40, 30, 20, 10]}
+                                colors={["emerald", "yellow", "orange", "rose"]}
+                                markerValue={62}
+                                className="mt-3"
+                            />
+                        </div>
+                        <div className={styles.bigNumber}>
+
+                        </div>
+                    </div>
+                    <div className={styles.bottomInfo}>
+
+                    </div>
                 </div>
             </div>
         </div>
