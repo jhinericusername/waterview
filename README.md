@@ -35,10 +35,9 @@ gaurang.goel@utdallas.edu
 
 # Roadmap / Future Plans
 
-This project is extremely modular and lends itself well to multiple aspects of development. Beyond the obvious improvements in visuals and front-end development, we're excited to improve integration with our Chatbot Assistant. In addition, performance and speed are relatively slow, which is another area of focus.
-
-Currently, to build our initial predictive model, we are only querying from the US Census Bureau. While this provides accurate estimations for items like rent, our initial predictive model becomes much less accurate on items such as household expenditures and discretionary income breakdowns. Querying from multiple trustworthy databases, such as the US Bureau of Labor Statistics, would allow us to build a much more ideal and realistic budgeting model.
-
-Our current program only supports one user at a time (per local host, so this isn't a huge issue). However, addressing this issue of concurrency would be a huge priority before this code could be pushed towards production.
+- **Enhanced Data Integration:** Expand data sources and coverage through IoT sensors, satellite imagery, and citizen-contributed data.
+- **Advanced Analytics:** Develop more accurate predictive models and real-time monitoring capabilities.
+- **Community Engagement:** Foster community involvement, awareness, and data collection through user-friendly mobile apps and educational initiatives.
+- **Policy Advocacy:** Utilize insights to influence policies and regulations for improved water quality management.
 
 ![AR Experience](https://github.com/jhinericusername/waterviewpkwy/blob/96bc7ae511e76c6c1ac7548fc8fcf973d63af951/AR/IMG_0114.png)
