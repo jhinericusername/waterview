@@ -1,0 +1,239 @@
+Title,Latitude,Longitude,Date,Elevation
+"""The Big Dig (Central Artery/Tunnel Project) Completion""",42.3601,-71.0589, 01/10/10,10.43025493621826
+"""Rose Kennedy Greenway Development""",42.3559,-71.055,08/08/08,4.551870822906494
+"""GE Boston Headquarters""",42.3486,-71.0861, 07/19/19,4.218243598937988
+"""Boston Landing Train Station""",42.3528,-71.1401, 07/25/17,17.05276679992676
+"""Government Center Station Renovation""",42.3597,-71.0603, 08/27/16,16.78004837036133
+"""Government Center Garage Redevelopment""",42.3617,-71.0605, 10/05/18,8.01740550994873
+"""Boston Public Market""",42.3607,-71.0571, 07/17/15,3.81519341468811
+"""The Revolution Hotel""",42.3442,-71.0986, 06/27/19,3.345298290252686
+"""Converse Headquarters Relocation""",42.3484,-71.083, 04/01/15,4.508124828338623
+"""UMass Boston Residence Hall""",42.3136,-71.0388, 08/28/18,5.195847511291504
+"""Boston Landing Commuter Rail Station""",42.3528,-71.1401, 07/12/17,17.05276679992676
+"""Parcel 1B (Bulfinch Crossing) Development""",42.3613,-71.0599, 05/23/18,9.699273109436035
+"""Seaport District Redevelopment""",42.3525,-71.043, 9/26/18,2.641671895980835
+"""Fenway Park Renovations""",42.3468,-71.0961, 8/17/22,4.40595817565918
+"""South Station Tower Development""",42.351,-71.0551, 4/30/20,4.090198993682861
+"""Hub on Causeway Development (TD Garden Expansion)""",42.3663,-71.0622, 10/21/23,3.005427360534668
+"""Boston Children's Hospital Expansion""",42.3372,-71.1097, 10/21/23,6.85105562210083
+"""Fenway Center Development""",42.3453,-71.0956, 10/21/23,3.5058434009552
+"""The Green Line Extension Project (GLX)""",42.399,-71.1246, 10/21/23,8.738870620727539
+"""Harvard Science and Engineering Complex""",42.3594,-71.0934, 09/15/20,2.636923789978027
+"""South Bay Center Redevelopment""",42.3251,-71.0667, 10/21/23,5.488791942596436
+"""Kenmore Square Redevelopment""",42.3482,-71.0973, 10/21/23,5.969231128692627
+"""Winthrop Square Tower""",42.3564,-71.0582, 10/21/23,7.812236309051514
+"""Seaport Square Development""",42.3491,-71.0419, 10/21/23,8.996127128601074
+"""Boston Logan Airport Terminal E Expansion""",42.3651,-71.0211, 10/11/23,3.465201854705811
+"""Massachusetts Turnpike Allston/I-90 Interchange Project""",42.355,-71.1319, 10/11/23,10.81698322296143
+"""Boston Children's Hospital Clinical Building""",42.3372,-71.1097, 3/11/23,6.85105562210083
+"""Boston Seaport Microgrid""",42.349,-71.0377, 3/11/23,0
+"""Boston University Center for Integrated Life Sciences and Engineering""",42.3494,-71.1107, 03/23/17,8.99447250366211
+"""Harvard Allston Science and Engineering Complex""",42.3577,-71.1342, 4/17/23,6.011198043823242
+"""The Beacon at Garvett Street Development""",42.3596,-71.0619, 4/17/23,20.4704704284668
+"""South Station Tower and Transportation Center""",42.351,-71.0551, 4/17/23,4.090198993682861
+"""Boston Landing Sports Complex""",42.3529,-71.1402, 06/08/18,17.24103164672852
+"""Dudley Square Redevelopment""",42.3302,-71.0843, 1/17/23,7.131121635437012
+"""Hub50House (Bulfinch Crossing)""",42.3611,-71.0593, 1/17/23,10.07450294494629
+"""Boston University Joan & Edgar Booth Theatre""",42.3498,-71.1015, 09/30/17,3.270415782928467
+"""Boston University Joan & Edgar Booth Theatre II""",42.3498,-71.1015, 1/17/23,3.270415782928467
+"""Boston City Hall Plaza Renovations""",42.3603,-71.0589, 1/17/23,10.23391532897949
+"""Charles River Esplanade Restoration""",42.3617,-71.0763, 4/1/22,-0.4832296371459961
+"""Suffolk Downs Redevelopment""",42.4001,-70.9954, 4/1/22,2.129606008529663
+"""Boston University Fenway Center""",42.3464,-71.0959, 4/1/22,4.25862455368042
+"""Exchange South End Development""",42.3375,-71.0734, 6/8/19,2.729080677032471
+"""Winthrop Square Garage Redevelopment""",42.3555,-71.0587, 6/8/19,7.322624206542969
+"""The Verb Hotel""",42.3442,-71.0986, 08/27/14,3.345298290252686
+"""Encore Boston Harbor Harborwalk""",42.3704,-71.0458, 6/8/19,0
+"""Boston University Student Services Center""",42.3493,-71.1025, 04/20/16,4.437674045562744
+"""Boston Marathon""",42.3601,-71.0589, 04/18/22,10.43025493621826
+"""Boston Pops Fireworks Spectacular""",42.3521,-71.0725, 07/04/22,2.788150072097778
+"""St. Patrick's Day Parade""",42.3601,-71.0589, 03/19/23,10.43025493621826
+"""Boston Calling Music Festival""",42.3662,-71.0621, 05/27/22 - 05/29/22,3.020291566848755
+"""First Night Boston""",42.3541,-71.0622, 12/31/22,8.214835166931152
+"""Head of the Charles Regatta""",42.3594,-71.0861, 10/22/22 - 10/23/22,2.857174634933472
+"""Boston Wine Festival""",42.3541,-71.0705, 01/14/22 - 03/25/22,2.64413857460022
+"""Boston Film Festival""",42.3601,-71.0589, 09/21/22 - 09/25/22,10.43025493621826
+"""Boston Comedy Festival""",42.3541,-71.0622, 11/08/22 - 11/13/22,8.214835166931152
+"""Salem Halloween Festival""",42.52,-70.9003, 10/01/22 - 10/31/22,6.961402416229248
+"""Boston Tea Party Reenactment""",42.3514,-71.0498, 12/16/22,2.192478179931641
+"""Dine Out Boston (Restaurant Week)""",42.3601,-71.0589, 03/06/22 - 03/18/22,10.43025493621826
+"""Boston Flower & Garden Show""",42.3473,-71.0825, 03/16/22 - 03/20/22,8.01114559173584
+"""Boston Harborfest""",42.3601,-71.0589, 06/29/22 - 07/04/22,10.43025493621826
+"""Boston Seafood Festival""",42.3615,-71.0483, 08/07/22,0
+"""Boston Comedy Arts Festival""",42.3601,-71.0589, 09/07/22 - 09/11/22,10.43025493621826
+"""Boston Arts Festival""",42.3537,-71.0464, 09/09/22 - 09/11/22,3.161378860473633
+"""Boston Asian American Film Festival""",42.3601,-71.0589, 10/20/22 - 10/23/22,10.43025493621826
+"""Boston Jewish Film Festival""",42.3601,-71.0589, 11/09/22 - 11/21/22,10.43025493621826
+"""Boston Ballet's The Nutcracker""",42.3519,-71.1191, 11/25/22 - 12/31/22,12.99815845489502
+"""Boston First Night""",42.3601,-71.0589, 12/31/23,10.43025493621826
+"""Boston Marathon""",42.3601,-71.0589, 04/18/22,10.43025493621826
+"""Boston Pops Fireworks Spectacular""",42.3521,-71.0725, 07/04/22,2.788150072097778
+"""St. Patrick's Day Parade""",42.3601,-71.0589, 03/19/23,10.43025493621826
+"""Boston Calling Music Festival""",42.3662,-71.0621, 05/27/22 - 05/29/22,3.020291566848755
+"""First Night Boston""",42.3541,-71.0622, 12/31/22,8.214835166931152
+"""Head of the Charles Regatta""",42.3594,-71.0861, 10/22/22 - 10/23/22,2.857174634933472
+"""Boston Wine Festival""",42.3541,-71.0705, 01/14/22 - 03/25/22,2.64413857460022
+"""Boston Film Festival""",42.3601,-71.0589, 09/21/22 - 09/25/22,10.43025493621826
+"""Boston Comedy Festival""",42.3541,-71.0622, 11/08/22 - 11/13/22,8.214835166931152
+"""Salem Halloween Festival""",42.52,-70.9003, 10/01/22 - 10/31/22,6.961402416229248
+"""Boston Tea Party Reenactment""",42.3514,-71.0498, 12/16/22,2.192478179931641
+"""Dine Out Boston (Restaurant Week)""",42.3601,-71.0589, 03/06/22 - 03/18/22,10.43025493621826
+"""Boston Flower & Garden Show""",42.3473,-71.0825, 03/16/22 - 03/20/22,8.01114559173584
+"""Boston Harborfest""",42.3601,-71.0589, 06/29/22 - 07/04/22,10.43025493621826
+"""Boston Seafood Festival""",42.3615,-71.0483, 08/07/22,0
+"""Boston Comedy Arts Festival""",42.3601,-71.0589, 09/07/22 - 09/11/22,10.43025493621826
+"""Boston Arts Festival""",42.3537,-71.0464, 09/09/22 - 09/11/22,3.161378860473633
+"""Boston Asian American Film Festival""",42.3601,-71.0589, 10/20/22 - 10/23/22,10.43025493621826
+"""Boston Jewish Film Festival""",42.3601,-71.0589, 11/09/22 - 11/21/22,10.43025493621826
+"""Boston Ballet's The Nutcracker""",42.3519,-71.1191, 11/25/22 - 12/31/22,12.99815845489502
+"""Boston First Night""",42.3601,-71.0589, 12/31/23,10.43025493621826
+"""Birthday Block Party""",42.3724,-71.0567, 10/21/23,0
+"""Boston Book Festival""",42.3496,-71.0776, 10/21/23,3.17817759513855
+"""Boston Irish Beerfest""",42.2178,-71.137, 10/21/23,12.01217269897461
+"""CIDERFEST 2023""",42.3447,-71.099, 10/21/23,3.630979776382446
+"""Roslindale Open Studios 2023""",42.279,-71.1207, 10/21/23,22.25982666015625
+"""View Boston Grand Opening""",42.3705,-71.0794, 10/21/23,7.896556377410889
+"""Blue Man Group""",42.3518,-71.065, 10/21/23 - 03/31/24,5.838814258575439
+"""The Addams Family""",42.3422,-71.1098, 10/21/23,7.332479000091553
+"""Andris Nelsons & Paul Lewis at the Boston Symphony Orchestra""",42.3416,-71.0865, 10/21/23,3.683906316757202
+"""Carlos Vives: El Tour De Los 30""",42.3494,-71.065, 10/21/23,6.369189262390137
+"""Coreyfest 2023 featuring Tyler Hubbard""",42.3534,-71.1197, 10/21/23,7.522291660308838
+"""ENRIQUE IGLESIAS RICKY MARTIN & PITBULL""",42.3662,-71.0621, 10/21/23,3.020291566848755
+"""DJs at The Grand""",42.3519,-71.0486, 10/21/23 (Recurring),2.122277975082397
+"""Drag Brunch at Summer Shack""",42.3477,-71.0874, 10/21/23 (Recurring),2.366245985031128
+"""Fat Ham at The Huntington Calderwood Theatre""",42.3436,-71.1159, 10/21/23 - 10/22/23 (Recurring),5.584748268127441
+"""IAN BAGG""",42.3521,-71.047, 10/21/23 - 10/21/23 (Recurring),2.974618673324585
+"""Improv Asylum Main Stage Show""",42.3649,-71.0562, 10/21/23 (Recurring),3.150490283966064
+"""INDEPENDENT FILM FESTIVAL BOSTON: FALL FOCUS 2023""",42.3701,-71.1061, 10/21/23,9.429779052734375
+"""LATE NIGHT LOUNGE""",42.3492,-71.0762, 10/21/23 (Recurring),3.49515700340271
+"""MR. SWINDLE'S TRAVELING PECULIARIUM AND DRINK-ORY GARDEN""",42.3444,-71.0384, 10/21/23 - 11/05/23 (Recurring),2.761677742004395
+"""The Book of Life: HOPE & HARMONY FROM RWANDAN VOICES""",42.3562,-71.0625, 10/21/23 - 10/22/23 (Recurring),12.82168579101562
+"""The Ghosts of Boston - All Ages Tour""",42.3584,-71.059, 10/21/23 (Recurring),11.30233669281006
+"""The Ghosts of our (Founding) Fathers Haunted Pub Crawl""",42.3594,-71.0594, 10/21/23 (Recurring),12.15215682983398
+"""View Boston After Dark""",42.3705,-71.0794, 10/21/23 (Recurring),7.896556377410889
+"""Polly Sumner Doll: Conventional & Controversial Cargo Exhibit""",42.3581,-71.0582, 10/21/23 - 12/31/23 (Recurring),10.01798820495605
+"""Musik on the Harpsichord & Hammered Dulcimer""",42.3636,-71.0557, 10/21/23,4.119318008422852
+"""The Salem Witch Trials Walk""",42.5217,-70.8967, 10/21/23 (Recurring),6.907562732696533
+"""BOSTON LIGHTS: A LANTERN EXPERIENCE""",42.3023,-71.0862, 10/21/23 - 10/29/23 (Recurring),43.81676483154297
+"""Brick-or-Treat: MONSTER PARTY""",42.3612,-71.0597, 10/21/23 - 10/31/23 (Recurring),10.26631355285645
+"""Carousel on The Boston Common Frog Pond""",42.3553,-71.0654, 10/21/23 - 10/31/23 (Recurring),7.572421073913574
+"""Dino Safari: A Walk-Thru Adventure""",42.359,-71.0532, 10/21/23 (Recurring),2.991399765014648
+"""Greenway Carousel""",42.3584,-71.0501, 10/21/23 (Recurring),0
+"""MATTEL PRESENTS: MONSTER HIGH LIVE""",42.3523,-71.1159, 10/21/23 - 10/22/23 (Recurring),5.733081817626953
+"""Salem Haunted Happenings""",42.5217,-70.8967, 10/21/23 - 10/31/23 (Recurring),6.907562732696533
+"""Culinary Garden featuring Schramsberg""",42.4374,-71.2253, 10/21/23 - 10/31/23 (Recurring),62.18605422973633
+"""Legal Sea Foods Oyster Festival""",42.3602,-71.0588, 10/21/23 - 10/31/23 (Recurring),10.34275245666504
+"""Rise & Remix Brunch""",42.3619,-71.0938, 10/21/23,1.672358393669128
+"""Tours at City Winery""",42.3484,-71.0482, 10/21/23 (Recurring),3.054167747497559
+"""Trillium on the Greenway""",42.3526,-71.0551, 10/21/23 (Recurring),4.286103248596191
+"""Wine Tastings at City Winery""",42.3484,-71.0482, 10/21/23 (Recurring),3.054167747497559
+"""Live Music at The Beehive""",42.3431,-71.0714, 10/21/23 (Recurring),2.535197257995605
+"""Wally's Cafe Jazz Club""",42.3419,-71.0894, 10/21/23 (Recurring),3.715908765792847
+"""STORIES OF HARVARD SQUARE CAMBRIDGE FOOD TOUR""",42.3736,-71.1187, 10/21/23 - 12/30/23 (Recurring),6.581562042236328
+"""2023 James and Audrey Foster Prize""",42.3527,-71.0436, 10/21/23 - 01/28/24 (Recurring),2.85927939414978
+"""Alive with Birds""",42.4583,-71.3453, 10/21/23 - 12/31/23 (Recurring),39.10260772705078
+"""Boston Athenaeum: Art & Architecture Tour""",42.3585,-71.0615, 10/21/23 - 10/31/23 (Recurring),22.8863468170166
+"""Dancing in the Courtyard""",42.3613,-71.0803, 10/21/23 - 10/31/23 (Recurring),2.97297191619873
+"""FLOW""",42.3497,-71.0832, 10/21/23 - 10/31/23 (Recurring),2.958351850509644
+"""Haymarket at Boston Public Market""",42.3616,-71.0574, 10/21/23 - 10/31/23 (Recurring),4.103063106536865
+"""Kick It By Eliza""",42.3652,-71.0642, 10/21/23 - 10/31/23 (Recurring),3.184019565582275
+"""MASS MOCA""",42.6388,-73.0961, 10/21/23 - 10/31/23 (Recurring),314.1971130371094
+"""North End Secret Food Tour""",42.3654,-71.055, 10/21/23 - 10/31/23 (Recurring),4.817106246948242
+"""Ringling Bros and Barnum & Bailey Circus""",42.3493,-71.0821, 10/21/23 - 10/31/23 (Recurring),2.758778810501099
+"""Strolling Jazz in the Courtyard""",42.3613,-71.0803, 10/21/23 - 10/31/23 (Recurring),2.97297191619873
+"""Sunset Cruise""",42.3535,-71.0442, 10/21/23 - 10/31/23 (Recurring),0
+"""Salem Witch City 5K""",42.5203,-70.9072, 10/21/23 - 10/31/23 (Recurring),2.494377136230469
+"""Architectural Walking Tour of Harvard Yard""",42.3736,-71.1187, 10/21/23 - 11/30/23 (Recurring),6.581562042236328
+"""Boston Ghosts and Gravestones Tour""",42.3594,-71.0594, 10/21/23 - 11/30/23 (Recurring),12.15215682983398
+"""Boston Pizza Tours""",42.3616,-71.0574, 10/21/23 - 11/30/23 (Recurring),4.103063106536865
+"""Fenway Park Tours""",42.3464,-71.0974, 10/21/23 - 11/30/23 (Recurring),4.877617359161377
+"""Hans Hofmann: The Nature of Abstraction""",42.3482,-71.0839, 10/21/23 - 11/30/23 (Recurring),5.657288551330566
+"""MIT Public Art Collection""",42.3601,-71.0905, 10/21/23 - 11/30/23 (Recurring),2.682325601577759
+"""Museum of Fine Arts""",42.3394,-71.0941, 10/21/23 - 11/30/23 (Recurring),4.529887199401855
+"""Museum of Science""",42.3674,-71.0711, 10/21/23 - 11/30/23 (Recurring),1.779823899269104
+"""New England Holocaust Memorial""",42.3624,-71.0684, 10/21/23 - 11/30/23 (Recurring),3.175137281417847
+"""The Boston Freedom Trail""",42.3581,-71.0636, 10/21/23 - 11/30/23 (Recurring),29.87307739257812
+"""The Mary Baker Eddy Library""",42.3434,-71.0863, 10/21/23 - 11/30/23 (Recurring),3.817130327224731
+"""The Paul Revere House""",42.3631,-71.0546, 10/21/23 - 11/30/23 (Recurring),3.606144905090332
+"""Wheelock Family Theatre""",42.3382,-71.1027, 10/21/23 - 11/30/23 (Recurring),3.811987638473511
+"""It Happened Here: Boston History Tour""",42.3579,-71.059, 10/21/23 - 12/31/23 (Recurring),11.4715747833252
+"""USS Constitution Museum""",42.3734,-71.0553, 10/21/23 - 12/31/23 (Recurring),2.097306251525879
+"""Barrington Stage Company - Chesterwood""",42.33,-73.3039, 10/21/23 - 12/31/23 (Recurring),298.7725524902344
+"""Barrington Stage Company - Wolfson""",42.3491,-73.2812, 10/21/23 - 12/31/23 (Recurring),356.0019836425781
+"""Jacob's Pillow Dance""",42.2279,-73.2555, 10/21/23 - 12/31/23 (Recurring),566.5372314453125
+"""The Clark Art Institute""",42.6272,-73.2054, 10/21/23 - 12/31/23 (Recurring),588.8506469726562
+"""Williamstown Theatre Festival""",42.7143,-73.2033, 10/21/23 - 12/31/23 (Recurring),212.3152770996094
+"""Yoga on the Mountain""",42.3326,-73.1186, 10/21/23 - 12/31/23 (Recurring),480.8798828125
+"""Jacob's Pillow Dance - Inside/Out Performance Series""",42.2259,-73.2558, 10/21/23 - 12/31/23 (Recurring),590.8400268554688
+"""Animals in August at Hancock Shaker Village""",42.4411,-73.308, 10/21/23 - 10/31/23 (Recurring),323.7171936035156
+"""Becket Land Trust Historic Quarry and Forest""",42.2939,-73.1107, 10/21/23 - 10/31/23 (Recurring),525.3575439453125
+"""Naumkeag""",42.2779,-73.3245, 10/21/23 - 10/31/23 (Recurring),250.2644653320312
+"""Ventfort Hall Mansion and Gilded Age Museum""",42.3637,-73.2834, 10/21/23 - 10/31/23 (Recurring),404.2306213378906
+"""Arrowhead""",42.4491,-73.283, 10/21/23 - 11/30/23 (Recurring),316.7129821777344
+"""The Mount""",42.3531,-73.3052, 10/21/23 - 11/30/23 (Recurring),321.1619262695312
+"""Norman Rockwell Museum""",42.3566,-73.2911, 10/21/23 - 12/31/23 (Recurring),354.1950378417969
+"""Shaker Museum - Mount Lebanon""",42.44,-73.3452, 10/21/23 - 12/31/23 (Recurring),427.2630920410156
+"""Chesterwood""",42.3342,-73.2426, 10/21/23 - 12/31/23 (Recurring),296.40869140625
+"""The Green""",42.7145,-73.2007, 10/21/23 - 12/31/23 (Recurring),199.3477630615234
+"""Winter Study 2023""",42.7125,-73.2039, 10/21/23 - 12/31/23 (Recurring),211.8651123046875
+"""The Great Barrington Rotary Club""",42.1954,-73.3626, 10/21/23 - 12/31/23 (Recurring),216.4058074951172
+"""Norman Rockwell Museum's Chesterwood""",42.3332,-73.2394, 10/21/23 - 12/31/23 (Recurring),315.7508544921875
+"""Norman Rockwell Museum in Stockbridge""",42.2832,-73.3317, 10/21/23 - 12/31/23 (Recurring),257.4688415527344
+"""Turn Park Art Space""",42.5016,-73.2123, 10/21/23 - 12/31/23 (Recurring),307.0918579101562
+"""The Skin of Our Teeth at The Center for Performing Arts at Rhinebeck""",41.9312,-73.908, 10/21/23 - 11/05/23 (Recurring),62.07277679443359
+"""Brushwood Folklore Center""",42.0973,-78.2246, 10/21/23 - 12/31/23 (Recurring),623.538330078125
+"""The Tavern at the Beekman Arms""",41.9214,-73.9132, 10/21/23 - 12/31/23 (Recurring),57.7873420715332
+"""Rough House Theater""",42.2827,-83.7453, 10/21/23 - 12/31/23 (Recurring),256.7714233398438
+"""Gerald W. Lynch Theater""",40.7719,-73.9831, 10/21/23 - 12/31/23 (Recurring),22.81873321533203
+"""The Lion King""",40.7565,-73.9863, 10/21/23 - 12/31/23 (Recurring),18.93057441711426
+"""Jersey Boys""",40.7587,-73.9886, 10/21/23 - 12/31/23 (Recurring),15.93588829040527
+"""Wicked""",40.7142,-74.0064, 10/21/23 - 12/31/23 (Recurring),10.48768138885498
+"""El Museo Del Barrio""",40.7923,-73.9385, 10/21/23 - 12/31/23 (Recurring),3.964649677276611
+"""National September 11 Memorial & Museum""",40.7115,-74.0124, 10/21/23 - 12/31/23 (Recurring),11.10354995727539
+"""Green-Wood Cemetery""",40.6577,-73.9905, 10/21/23 - 12/31/23 (Recurring),48.84235000610352
+"""Whitney Museum of American Art""",40.7395,-74.0089, 10/21/23 - 12/31/23 (Recurring),4.239757537841797
+"""Brooklyn Botanic Garden""",40.6689,-73.9654, 10/21/23 - 12/31/23 (Recurring),43.59590911865234
+"""Bronx Museum of the Arts""",40.8314,-73.9192, 10/21/23 - 12/31/23 (Recurring),28.46698570251465
+"""Wave Hill""",40.8987,-73.9141, 10/21/23 - 12/31/23 (Recurring),15.43127346038818
+"""New York Hall of Science""",40.7474,-73.851, 10/21/23 - 12/31/23 (Recurring),8.388627052307129
+"""Storm King Art Center""",41.4429,-74.1332, 10/21/23 - 12/31/23 (Recurring),108.8273239135742
+"""Caramoor Center for Music and the Arts""",41.2381,-73.6454, 10/21/23 - 12/31/23 (Recurring),165.0164337158203
+"""Katonah Museum of Art""",41.2625,-73.6819, 10/21/23 - 12/31/23 (Recurring),58
+"""Bedford Playhouse""",41.2035,-73.6419, 10/21/23 - 12/31/23 (Recurring),113.5065231323242
+"""Jacob Burns Film Center""",41.1299,-73.7738, 10/21/23 - 12/31/23 (Recurring),116.3422241210938
+"""Hudson Valley Shakespeare Festival""",41.4307,-73.8689, 10/21/23 - 12/31/23 (Recurring),288.5096130371094
+"""Teatown Lake Reservation""",41.2383,-73.8661, 10/21/23 - 12/31/23 (Recurring),73.67404174804688
+"""Lyndhurst Mansion""",41.052,-73.8695, 10/21/23 - 12/31/23 (Recurring),15.03760623931885
+"""Caramoor Center for Music and the Arts""",41.2381,-73.6454, 10/21/23 - 12/31/23 (Recurring),165.0164337158203
+"""Wave Hill""",40.8987,-73.9141, 10/21/23 - 12/31/23 (Recurring),15.43127346038818
+"""New York Hall of Science""",40.7474,-73.851, 10/21/23 - 12/31/23 (Recurring),8.388627052307129
+"""Storm King Art Center""",41.4429,-74.1332, 10/21/23 - 12/31/23 (Recurring),108.8273239135742
+"""Caramoor Center for Music and the Arts""",41.2381,-73.6454, 10/21/23 - 12/31/23 (Recurring),165.0164337158203
+"""Katonah Museum of Art""",41.2625,-73.6819, 10/21/23 - 12/31/23 (Recurring),58
+"""Bedford Playhouse""",41.2035,-73.6419, 10/21/23 - 12/31/23 (Recurring),113.5065231323242
+"""Jacob Burns Film Center""",41.1299,-73.7738, 10/21/23 - 12/31/23 (Recurring),116.3422241210938
+"""Hudson Valley Shakespeare Festival""",41.4307,-73.8689, 10/21/23 - 12/31/23 (Recurring),288.5096130371094
+"""Teatown Lake Reservation""",41.2383,-73.8661, 10/21/23 - 12/31/23 (Recurring),73.67404174804688
+"""Lyndhurst Mansion""",41.052,-73.8695, 10/21/23 - 12/31/23 (Recurring),15.03760623931885
+"""Dia Beacon""",41.5001,-73.9677, 10/21/23 - 12/31/23 (Recurring),42.38065338134766
+"""Dia Chelsea""",40.7463,-74.0061, 10/21/23 - 12/31/23 (Recurring),3.51075005531311
+"""The Rubin Museum of Art""",40.7406,-73.9972, 10/21/23 - 12/31/23 (Recurring),12.89376544952393
+"""American Museum of Natural History""",40.7813,-73.9739, 10/21/23 - 12/31/23 (Recurring),30.24661636352539
+"""Museum of Modern Art (MoMA)""",40.7614,-73.9776, 10/21/23 - 12/31/23 (Recurring),21.82638740539551
+"""The Metropolitan Museum of Art""",40.7794,-73.9632, 10/21/23 - 12/31/23 (Recurring),30.86842155456543
+"""Solomon R. Guggenheim Museum""",40.783,-73.959, 10/21/23 - 12/31/23 (Recurring),34.69426345825195
+"""The Whitney Museum of American Art""",40.7394,-74.0089, 10/21/23 - 12/31/23 (Recurring),3.900328159332275
+"""The Frick Collection""",40.77,-73.9679, 10/21/23 - 12/31/23 (Recurring),25.06949615478516
+"""The Cloisters Museum and Gardens""",40.8648,-73.9319, 10/21/23 - 12/31/23 (Recurring),58.30593490600586
+"""The Jewish Museum""",40.7853,-73.9576, 10/21/23 - 12/31/23 (Recurring),31.81795310974121
+"""Museum of the City of New York""",40.7924,-73.9518, 10/21/23 - 12/31/23 (Recurring),13.46830940246582
+"""The Morgan Library & Museum""",40.7493,-73.9813, 10/21/23 - 12/31/23 (Recurring),25
+"""The New York Public Library - Stephen A. Schwarzman Building""",40.7532,-73.9827, 10/21/23 - 12/31/23 (Recurring),24.48752403259277
+"""Staten Island Museum""",40.6069,-74.0989, 10/21/23 - 12/31/23 (Recurring),102.0099792480469
+"""Alice Austen House""",40.6155,-74.063, 10/21/23 - 12/31/23 (Recurring),3.384440183639526
+"""National Lighthouse Museum""",40.6437,-74.0732, 10/21/23 - 12/31/23 (Recurring),12.75501155853271
+"""Snug Harbor Cultural Center & Botanical Garden""",40.6423,-74.1019, 10/21/23 - 12/31/23 (Recurring),15.47895336151123
+"""Fraunces Tavern Museum""",40.7023,-74.0105, 10/21/23 - 12/31/23 (Recurring),5.041691303253174
+"""The Skyscraper Museum""",40.7086,-74.0176, 10/21/23 - 12/31/23 (Recurring),4.125253677368164
+"""National Museum of the American Indian""",40.704,-74.0137, 10/21/23 - 12/31/23 (Recurring),7.171919822692871
+"""Whitney Museum of American Art""",40.7395,-74.0089, 10/21/23 - 12/31/23 (Recurring),4.239757537841797
