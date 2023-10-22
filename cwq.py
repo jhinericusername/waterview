@@ -9,6 +9,7 @@ def calculate_cwq(pH, conductivity, turbidity, temperature):
     conductivity_score = normalize(conductivity, 150, 500)
     turbidity_score = normalize(turbidity, 0, 5)
     temperature_score = normalize(temperature, 15, 25)
+    print(pH_score, conductivity_score, turbidity_score, temperature_score)
 
     # Assign weights to the parameters according to their importance
     # The sum of weights should be 1
@@ -26,5 +27,5 @@ def calculate_cwq(pH, conductivity, turbidity, temperature):
 
 
 # Test the function with sample data
-cwq = calculate_cwq(7, 300, 3, 20)
+cwq = calculate_cwq(7, 160, 3, 20)
 print(f"Comprehensive Water Quality Score: {cwq}")
