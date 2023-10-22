@@ -47,7 +47,7 @@ const Map = () => {
 	  };
 
 	return (
-		<LoadScript googleMapsApiKey="AIzaSyAteY9Km-IWhxfhogo_e5bYpSeGcFsEozE">
+		<LoadScript googleMapsApiKey="REDACTED - PERSONAL KEY">
 			<GoogleMap
 				mapContainerStyle={mapContainerStyle}
 				center={center}
