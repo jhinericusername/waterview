@@ -37,3 +37,5 @@ df["cwi_100"] = np.round(100 * (df["cwi"] - 1) / 9).astype(int)
 
 print(df["cwi_100"].max())
 print(df["cwi_100"].min())
+
+df.to_csv("datasets/final_data/cwi.csv", index=False)
